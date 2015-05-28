@@ -5,7 +5,7 @@
       <paths name="ftp.schnomozingo.com">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/schnom5/public_html/sandbox/" local="$PROJECT_DIR$" web="/sandbox/BBC" />
+            <mapping deploy="public_html/sandbox/" local="$PROJECT_DIR$" web="/sandbox/BBC" />
           </mappings>
         </serverdata>
       </paths>
